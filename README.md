@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonal Dubey !</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonal1313" alt="sonal1313" /></a> </p>
+
 
 - 🌱 I’m currently learning **React, Node JS**
 
