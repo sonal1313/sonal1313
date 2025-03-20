@@ -17,4 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonal1313&show_icons=true&locale=en&layout=compact" alt="sonal1313" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonal1313&show_icons=true&locale=en" alt="sonal1313" /></p>
